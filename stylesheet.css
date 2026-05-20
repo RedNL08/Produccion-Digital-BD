@@ -1,0 +1,99 @@
+*{
+    padding: 1;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: rgb(50, 2, 60);
+}
+
+header{
+    background-color: rgb(138, 15, 209);
+    height: 130px;
+    align-items: center;
+}
+
+
+nav{
+    height: 40px;
+    padding-top: 20px;
+    padding-left: 1200px;
+}
+
+main{
+    height: 900px;
+}
+
+footer{
+    background-color: rgb(16, 2, 28);
+    height: 40px;
+}
+
+footer ul{
+    padding-top: 10px;
+    list-style-type: none;
+}
+
+footer ul li{
+    display: inline-block;
+    padding: 2px 5px;
+    background-color: blue;
+    border-radius: 50px;
+}
+
+footer ul li a{
+    text-decoration: none;
+    color: orangered;
+    font-weight: bold;
+}
+
+h1{
+    color: aqua;
+    text-align: center;
+    padding-top: 2%;
+}
+
+h2{
+    color: aquamarine;
+    padding-left: 1%;
+    padding-top: 5px;
+}
+
+input{
+    padding: 2%;
+    background-color: cadetblue;
+}
+
+#banner1{
+    height: 350px;
+    margin-top: 50px;
+    padding-bottom: 10px;
+    background-color: rgba(90, 6, 90, 0.712);
+}
+
+#banner2{
+    height: 350px;
+    margin-top: 50px;
+    padding-bottom: 10px;
+    background-color: rgba(90, 6, 90, 0.712);
+}
+
+.game{
+    height: 250px;
+    width: 250px;
+    background-color: rgb(239, 88, 114);
+    display: inline-block;
+    margin: 20px;
+}
+
+
+/*
+.rojo{
+    height: 200px;
+    width: 200px;
+    background-color: red;
+    position: relative;
+    top: 50px;
+}
+/*
