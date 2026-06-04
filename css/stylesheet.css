@@ -79,6 +79,11 @@ input{
     background-color: rgba(90, 6, 90, 0.712);
 }
 
+.container{ 
+display: flex;
+flex-wrap: wrap;
+}
+
 .game{
     height: 250px;
     width: 250px;
